@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/P6PvZzh.png" title="Cyberscan">
+<img src="https://i.imgur.com/P6PvZzh.png" title="GoSFinder">
 
 # ABOUT.
 This program is to find the administrator panel of web pages. GoSFinder is a "web-crawler" that provides the access point to the administration panel for brute-force attacks.
