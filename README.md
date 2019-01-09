@@ -24,8 +24,10 @@ Asegurate de escribir / al final de cada url. Ejemplo:
 ###Contáctenos 
 
 Twitter: HackingEnVivo
+
 Twitter: 0Katz
 
 Facebook: Hacking Live
+
 Facebook: MetaSploit En Espanol 
 
