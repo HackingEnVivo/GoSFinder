@@ -18,9 +18,11 @@ Installation and download of GoSFinder
 
 # REQUIREMENTS:
 Have Python Version 2.7 Installed
-import BeautifulSoup
-import urlparse
-import mechanize
+```sh
+import colorama
+https://pypi.org/project/colorama/
+install setup.py
+```
 
 # INSTRUCTIONS:
 ```sh
