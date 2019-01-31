@@ -28,8 +28,8 @@ install setup.py
 
 # INSTRUCTIONS:
 ```sh
-python2 GoSFinder.py
-python2 GoSFinder.py -n "Tu Nick"
+GoSFinder.py
+GoSFinder.py -n "Tu Nick"
 
 Asegurate de escribir / al final de cada url. Ejemplo:
 > SITIO PARA SCANEAR: wwww.foobar.com/
