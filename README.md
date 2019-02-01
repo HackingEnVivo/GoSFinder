@@ -32,7 +32,7 @@ GoSFinder.py
 GoSFinder.py -n "Tu Nick"
 
 Asegurate de escribir / al final de cada url. Ejemplo:
-> SITIO PARA SCANEAR: wwww.foobar.com/
+> SITIO PARA SCANEAR: sise.edu.pe/
 
 ```
 
